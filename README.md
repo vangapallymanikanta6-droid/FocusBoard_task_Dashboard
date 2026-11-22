@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FocusBoard
 
 A responsive, single-user task dashboard built with React, TypeScript, and Vite. Tasks can be created, edited, deleted, searched, filtered, and updated without a backend.
@@ -37,3 +38,7 @@ Calendar and Settings navigation items are visual placeholders. This is a single
 ## AI assistance
 
 See [AI_USAGE.md](./AI_USAGE.md) for tool disclosure, representative prompts, and a reviewed design decision.
+=======
+# FocusBoard_task_Dashboard
+FocusBoard is a responsive task-management dashboard built with React and Vite. It helps users organize tasks, track progress, filter priorities, and monitor productivity from desktop or mobile devices.
+>>>>>>> 7038c3122c48849fc6ac64cf686acd2567ff492d
